@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EGWqcuvybQsiqYO0Y7q6nc6TC3SeIkNexSDwJh6yyXw=",
+  "Source": "FundamentalWebApi",
+  "BasePath": "_content/FundamentalWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
