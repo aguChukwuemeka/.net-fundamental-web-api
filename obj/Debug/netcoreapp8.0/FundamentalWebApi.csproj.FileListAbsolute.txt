@@ -1,0 +1,5 @@
+/Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/netcoreapp8.0/FundamentalWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/netcoreapp8.0/FundamentalWebApi.AssemblyInfoInputs.cache
+/Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/netcoreapp8.0/FundamentalWebApi.AssemblyInfo.cs
+/Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/netcoreapp8.0/FundamentalWebApi.csproj.CoreCompileInputs.cache
+/Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/netcoreapp8.0/FundamentalWebApi.sourcelink.json

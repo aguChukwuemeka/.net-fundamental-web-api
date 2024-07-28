@@ -33,3 +33,4 @@
 /Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/net8.0/FundamentalWebApi.pdb
 /Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/net8.0/FundamentalWebApi.genruntimeconfig.cache
 /Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/net8.0/ref/FundamentalWebApi.dll
+/Users/user/Source/dotNet/FundamentalWebApi/obj/Debug/net8.0/FundamentalWebApi.sourcelink.json
